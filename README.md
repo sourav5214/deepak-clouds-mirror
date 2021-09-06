@@ -1,4 +1,4 @@
-[![Slam](https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg)](https://telegram.dog/cloudsmirror)
+[![Slam](https://imagetot.com/images/2021/09/06/a2fb6e2a9867523d15a1702e66994315.jpg)](https://telegram.dog/bwmovieml)
 
 # Deepak Clouds Mirror
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
@@ -14,7 +14,7 @@
 [![Slam Mirror Support](https://img.shields.io/badge/Deepak%20Clouds%20Mirror-support%20group-blue)](https://telegram.dog/cloudsmirror)
 
 **Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
-[Supported Groups](https://telegram.dog/cloudsmirror)
+[Supported Groups](https://telegram.dog/bwmovieml)
 # Features supported:
 ## Additional Features
 - Get detailed info about replied media (Only for Telegram file)
